@@ -122,6 +122,9 @@ dist
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
 
+# PNPM
+pnpm-lock.yaml
+
 # yarn v2
 .yarn/cache
 .yarn/unplugged
@@ -131,3 +134,6 @@ dist
 
 # JetBrains
 .idea
+
+# Visual Studio Code 
+*.code-workspace
